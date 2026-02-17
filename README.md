@@ -47,10 +47,8 @@ This section dives deeper into **where defects originate**, **which types are mo
 ---
 
 ## 🧠 Why Track Failure or Defect Rates?
-Understanding the defect rate is crucial because it reflects **how efficient, consistent, and profitable** your manufacturing process is.
+Finding the failure or defect rate in a production report is essential because it tells you how **healthy, efficient, and profitable** your manufacturing process really is. Defect rate shows you how many products fail to meet standards prior release to customer. It is important to set quality standards before any item release to prevent customer complaints resulting to customer attrition.
 
-Finding the failure or defect rate in a production report is essential because it tells you how healthy, efficient, and profitable your manufacturing process really is. Defect rate shows you how many products fail to meet standards prior release to customer. It is important to set quality standards before any item release to prevent customer complaints resulting to customer attrition.
+By tracking which stages or components cause the most defects can help **identify root causes early**. Maybe the machine needs maintenance, or there is a requirement to increase staff due to burnout. It can also be caused by supplier issues.
 
-By tracking which stages or components cause the most defects can help identify root causes early. Maybe the machine needs maintenance, or there is a requirement to increase staff due to burnout. It can also be caused by supplier issues.
-
-This reasons and more can assist the company to reduce any arising cost resulting to defects at the early stage. Imagine the cost of rework, scrapping or double shipping due to return? Most importantly, we want our customers happy. We are proud of our products and the way we build them so quality output is necessary to maintain customer satisfaction.  
+This reasons and more can assist the company to reduce any arising cost resulting to defects at the early stage. Imagine the cost of rework, scrapping or double shipping due to return? Most importantly, **we want our customers happy**. We are proud of our products and the way we build them so quality output is necessary to maintain customer satisfaction.  
